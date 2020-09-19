@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
     <color name="white">#FFFFFF</color>
-    <color name="purple">#ff33ff</color>
+
     <color name="blue">#ccf2ff</color>
     <color name="pink">#ff33ff</color>
     <color name="yellow">#ffff99</color>
-    <color name="blue2">#ccf2ff</color>
-
+    <color name="blue2">#b3e6cc</color>
+    <color name="purple">#df9fbf</color>
+    <color name="purple2">#f5e6ff</color>
+<color name="blue3">#9fdfbe</color>
 
 </resources>
